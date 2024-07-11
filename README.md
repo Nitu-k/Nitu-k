@@ -1,5 +1,6 @@
 <h align="center">I am a Final year student at NBNSTIC Pune, studying Computer Engineering. I make website and code in Python and Java.</h>
-<hr />
+
+<hr/> 
 <img align="right" alt="Coding" width="300" src="https://c.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif">
 <li> 🌱 I’m currently learning <ol>DSA</ol><ol>Django</ol>
 
@@ -12,12 +13,8 @@
 
 
 <h3 align="left">Contact</h3>
-
 <hr/>
-<p
-    <ul>
-      
-        <li><a href="iamnitu84@gmail.com">Email: Nitu Kumari</a></li>
-      <li><a href="https://www.linkedin.com/in/nitu-kumari-859a91298/">LinkedIn: Nitu Kumari</a></li>
-    </ul>   
+
+<p align="left">
+<a href="https://www.linkedin.com/in/nitu-kumari-859a91298/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nitu-kumari-859a91298/" height="30" width="40" /></a>
 </p>
