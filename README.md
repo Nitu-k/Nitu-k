@@ -1,4 +1,4 @@
-<h align="center">I am a Final year student at NBNSTIC Pune, studying Computer Engineering. I make website and code in Python and Java.</h>
+<h align="center">I make website and code in Python and Java.</h>
 
 <hr/> 
 <img align="right" alt="Coding" width="300" src="https://c.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif">
